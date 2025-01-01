@@ -6,7 +6,7 @@ import { getAuth,createUserWithEmailAndPassword } from "firebase/auth";// TODO: 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "",
+  apiKey: "AIzaSyCWYYd46SyerH4c6uTirZ8isZnIOche-Uk",
   authDomain: "marketplace-d4a8c.firebaseapp.com",
   projectId: "marketplace-d4a8c",
   storageBucket: "marketplace-d4a8c.firebasestorage.app",
